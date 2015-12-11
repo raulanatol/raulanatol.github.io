@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Raúl Anatol -- @raulanatol
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
