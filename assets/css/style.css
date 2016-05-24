@@ -1,0 +1,60 @@
+
+body {
+  font-family: "Raleway", "Source Sans Pro", sans-serif;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 48px;
+  text-align: center;
+  color: #333;
+  display: table;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+a, a:visited, a:active {
+  color: #37b;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 48px;
+}
+
+p {
+  margin: 24px;
+}
+
+.row {
+  display: table-row;
+}
+
+.cell {
+  display: table-cell;
+  height: 1px;
+}
+
+.fa {
+  font-size: 40px;
+}
+
+.fa-github {
+  color: #333;
+}
+
+.fa-twitter {
+  color: #20AEEE;
+  margin: 0 96px;
+}
+
+.fa-envelope-o {
+  color: #dd4b39;
+}
+
+@media (max-width: 340px) {
+  .fa-twitter {
+    margin: 0 72px;
+  }
+}
